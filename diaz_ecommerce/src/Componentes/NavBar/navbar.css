@@ -1,0 +1,45 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333; /*  color de fondo  */
+    padding: 10px 20px;
+    position: fixed; /* fija en la parte superior */
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  .cart-widget {
+    color: #fff; /* color del icono */
+    font-size: 24px; /* tamaño del icono */
+    margin-right: 20px; /* margen  */
+    
+  }
+  .left {
+    flex: 1; /* El contenedor izquierdo ocupará todo el espacio disponible */
+  }
+  
+  .right {
+    display: flex;
+    align-items: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
