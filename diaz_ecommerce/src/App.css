@@ -56,17 +56,17 @@ body {
   width: 300px;
   height: 200px;
   margin: 10px;
+  text-align: center;
+  padding: 20px;
+  color: #fff;
 }
 
 .item1 {
-  background-image: url(./Componentes/imagenes/anteojos-5486967_640.jpg);
+  background-image: url('./Pages/imagenes/anteojos-5486967_640.jpg');
+  background-color: #dddedf; 
 }
 
 .item2 {
-  background-image: url(./Componentes/imagenes/display-1313664_640.jpg);
+  background-image: url('./Pages/imagenes/display-1313664_640.jpg');
+  background-color: #dddedf; 
 }
-
-.item3 {
-  background-image: url(./Componentes/imagenes/glasses-928465_640.webp);
-}
-
