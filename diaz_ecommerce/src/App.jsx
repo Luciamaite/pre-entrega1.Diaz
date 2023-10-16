@@ -20,6 +20,7 @@ function App() {
 
 export default App*/
 import React from 'react';
+import './App.css';
 import CartWidget from './Componentes/Cartwidget/cartwidget';
 import Titulo from './Componentes/Titulo/titulo';
 import Navbar from './Componentes/NavBar/navbar';
