@@ -1,5 +1,4 @@
-import Titulo from "../Titulo/titulo"
-import Formulario from "../Formulario/formulario"
+import titulo from '../Titulo/titulo';
 
 const Home = ( { saludo } ) => {
     

@@ -1,24 +1,4 @@
 
-/*import './Componentes/Home/home'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
-
-function App() {
-  const categories = ['Home', 'Formulario'];
-
-  const handleCategoryClick = (categoryName) => {
-    // Maneja el clic en una categoría, puedes redirigir a una página específica, etc.
-    alert(`Has seleccionado: ${categoryName}`);
-  };
-
-  return (
-    <div className="container">
-      <Page categories={categories} onCategoryClick={handleCategoryClick} />
-    </div>
-  );
-}
-
-export default App*/
 import React from 'react';
 import './App.css';
 import CartWidget from './Componentes/Cartwidget/cartwidget';

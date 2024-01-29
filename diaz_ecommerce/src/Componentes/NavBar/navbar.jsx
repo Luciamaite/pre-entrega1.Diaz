@@ -16,9 +16,7 @@ function Navbar() {
             />
           </a>
         </li>
-        <li><a href="">Home</a></li>
-        <li><a href="">Formulario</a></li>
-      </ul>
+    </ul>
       <CartWidget />
     </nav>
   );
