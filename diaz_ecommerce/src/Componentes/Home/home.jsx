@@ -2,7 +2,7 @@ import titulo from '../Titulo/titulo';
 
 const Home = ( { saludo } ) => {
     
-    const tituloApp = 'Bienvenidos'
+    const tituloApp = 'Hola! Bienvenidos'
     const subTituloApp = 'Tienda Online'
    
 
